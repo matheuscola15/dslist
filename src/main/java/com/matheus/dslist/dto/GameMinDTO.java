@@ -1,7 +1,6 @@
 package com.matheus.dslist.dto;
 
 import com.matheus.dslist.entities.Game;
-import jakarta.persistence.Column;
 
 public class GameMinDTO {
 
